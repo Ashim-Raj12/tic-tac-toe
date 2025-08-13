@@ -11,16 +11,16 @@ A simple Tic Tac Toe game built with React.js. Play with a friend on the same de
 ## Installation
 
 1. Clone the repository:
-   https://github.com/Ashim-Raj12/tic-tac-toe.git
+   ```git clone https://github.com/Ashim-Raj12/tic-tac-toe.git```
 
 2. Navigate to the project folder:
-   cd tic-tac-toe
+   ```cd tic-tac-toe```
 
 3. Install dependencies:
-   npm install
+  ``` npm install```
 
 4. Start the development server:
-   npm start
+   ```npm start```
 
 The app will open in your browser at `http://localhost:3000`.
 
