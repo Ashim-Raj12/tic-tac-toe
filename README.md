@@ -2,6 +2,9 @@
 
 A simple Tic Tac Toe game built with React.js. Play with a friend on the same device.
 
+## Live Link
+- https://tic-tac-toe-arn.netlify.app/
+
 ## Features
 - Two-player mode (X and O)
 - Detects winner
